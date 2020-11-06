@@ -22,7 +22,7 @@ buildscript {
         kotlinVersion = '1.4.10'
         appCompatVersion = "1.2.0"
         recyclerVersion = "1.1.0"
-        materialVersion = "1.2.0"
+        materialVersion = '1.2.1'
         navigationVersion = "2.1.0"
         constraintLayoutVersion = "2.0.4"
     }
